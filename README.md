@@ -53,7 +53,7 @@ Following snapshot shows how the code is structured and what functions fall unde
 
 ## Contributors
 
-Answer. I did this project by myself and doubts were clarified by instructor.
+Answer. I did this project by myself 
 Email - aarunabisht@gmail.com
 
 ---
