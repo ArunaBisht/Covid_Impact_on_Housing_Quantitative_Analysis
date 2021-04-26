@@ -29,7 +29,7 @@ pandas @ file:///C:/ci/pandas_1602083338010/work
 We have to install libraries Pandas, Pathlib, plotly, hvplot, dotenv
 
 
-    
+    .
 
 ## Examples
 
