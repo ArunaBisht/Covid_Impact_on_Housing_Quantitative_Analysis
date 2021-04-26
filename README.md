@@ -1,6 +1,6 @@
 # COVID impact on housing market
 
-![snapshots](intro_covid.PNG)
+![](snapshots/intro_covid.PNG)
 
 The objective of this project is to analyze the impact of COVID on the Sanfranciso housing market and findg the buying and selling opportunity.
 
